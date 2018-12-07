@@ -1,0 +1,5 @@
+﻿{
+	"Microsoft.Extensions.Configuration.FileExtensions": "1.0.0",
+	"Microsoft.Extensions.Configuration.Json": "1.0.0",
+	"server.urls": "http://localhost:5001;http://localhost:5002;http://*:5003"
+}
